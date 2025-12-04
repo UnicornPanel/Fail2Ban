@@ -18,9 +18,9 @@ These defaults provide strong baseline security:
 
 | Setting        | Value      | Description                            |
 |---------------|-----------|----------------------------------------|
-| bantime        | 1h        | IP ban duration                         |
+| bantime        | 6h        | IP ban duration                         |
 | findtime       | 10m       | Log window to detect repeated failures  |
-| maxretry       | 3         | Attempts allowed before ban             |
+| maxretry       | 6         | Attempts allowed before ban             |
 
 Adjust these values depending on the sensitivity of your services.
 
