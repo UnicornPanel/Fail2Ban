@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 IP="$1"
 CACHE_DIR="/var/cache/fail2ban"
