@@ -9,7 +9,7 @@ This repo provides:
 
 ✔ Pre‑configured **Fail2Ban jails** optimized for common services  
 ✔ Custom **filters** intended for NGINX, SSH, and WordPress‑based environments  
-✔ A curated **ignore list** of trusted CDN IPs 
+✔ A curated **ignore list** of trusted CDN IPs
 ✔ Scripts to simplify deployment within **Unicorn Panel** hosting containers  
 
 ## 🚀 Recommended Settings
